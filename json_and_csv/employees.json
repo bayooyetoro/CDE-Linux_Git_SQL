@@ -1,0 +1,5 @@
+[
+    {"EmployeeID": "001", "Name": "Michael Brown", "Department": "Finance", "Salary": 60000},
+    {"EmployeeID": "002", "Name": "Sarah Davis", "Department": "HR", "Salary": 55000},
+    {"EmployeeID": "003", "Name": "James Wilson", "Department": "Engineering", "Salary": 70000}
+]
